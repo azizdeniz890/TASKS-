@@ -1,2 +1,2 @@
 TASKS
-Task2.3 ve Task2.4 üzerinde çalışmaktayım.
+Task2.4 ve Task3 üzerinde çalışmaktayım.
